@@ -29,7 +29,4 @@ Utilisation simple
 Tests rapides
 - Pour tester la compilation :
 
-    make clean && make
-
-Remarques
-- Si tu veux que j'ajoute des exemples plus complets, des tests automatiques ou des badges, dis-le.
+    make clean && makes
